@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 int main()
 {
     int marks_1,marks_2,marks_3,marks_4,marks_5,sum;
